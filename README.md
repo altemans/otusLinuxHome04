@@ -1,4 +1,8 @@
 # Home 04 ZFS
+
+<details>
+  <summary>home 04</summary>
+
 ### Определение алгоритма с наилучшим сжатием
 
 ```
@@ -255,6 +259,8 @@ Saving to: 'otus_task2.file'
 https://github.com/sindresorhus/awesome
 
 ```
+
+</details>
 
 # Вывод запуска vagrant up со скриптом
 
